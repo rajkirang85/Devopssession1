@@ -1,3 +1,5 @@
-sample code
+
 just for git learning purpose 
-int i 
+int i
+added 3rd line 
+
